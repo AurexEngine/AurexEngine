@@ -1,9 +1,0 @@
-/vendor/
-/.idea/
-/.vscode/
-/node_modules/
-/coverage/
-/*.log
-.env
-composer.lock
-package-lock.json
