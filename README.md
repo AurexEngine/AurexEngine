@@ -9,8 +9,8 @@ These are the core packages and starter app required for Phase 1 of the engine.
 ### ✅ Required packages
 
 - [✅] `aurexengine/core`
-- [ ] `aurexengine/http`
-- [ ] `aurexengine/routing`
+- [✅] `aurexengine/http`
+- [✅] `aurexengine/routing`
 - [ ] `aurexengine/mvc`
 - [ ] `aurexengine/database`
 - [ ] `aurexengine/auth`
